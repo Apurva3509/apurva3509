@@ -4,7 +4,7 @@
 <!-- <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> -->
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="30"/> **About Me**
-![Profile views](https://komarev.com/ghpvc/?username=Apurva3509&color=darkblue)
+![Profile views](https://komarev.com/ghpvc/?username=Apurva3509&color=green)
 
 
 I’m a data-driven problem solver passionate about Generative AI and AI Agents. I hold a Master’s in [Electrical Engineering](https://www.engineering.columbia.edu/electrical-engineering-department) from [Columbia University](https://en.wikipedia.org/wiki/Columbia_University), specializing in Machine Learning, Generative AI, NLP, and Big Data. I completed my B.Tech. from [VIT University](https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology) in 2023, graduating with distinction.
