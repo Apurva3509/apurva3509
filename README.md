@@ -21,7 +21,7 @@ Let’s [connect](https://www.linkedin.com/in/patelapurva/)!!
 
 - 🌱 I’m currently working on: AI Safety and AI Agent guardrails
 - 🔭 I’m researching: Advanced Retrieval methods and Multimodal Vector Embeddings.
-- 
+  
 - 🔗 Visit me on [LinkedIn](https://www.linkedin.com/in/patelapurva) to connect
 
 
