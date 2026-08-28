@@ -13,6 +13,15 @@ turning research ideas into software people can inspect, run, and improve.
 
 ## Featured work
 
+### [Grounded Alpha](https://github.com/Apurva3509/grounded-alpha)
+
+An evidence-gated evaluation harness for financial research agents. It catches
+uncited claims, look-ahead evidence, stale sources, numeric conflicts, and weak
+high-confidence conclusions—locally and without an API key. It ships as a
+Python CLI, GitHub Action, and reusable agent skill.
+
+`Python` · `AI evaluation` · `Agent skills` · `Fintech` · `Local-first`
+
 ### [RiskGlass](https://github.com/Apurva3509/riskglass)
 
 A local-first macOS portfolio risk laboratory built with SwiftUI and Swift
