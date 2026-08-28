@@ -13,6 +13,16 @@ turning research ideas into software people can inspect, run, and improve.
 
 ## Featured work
 
+### [PidMesh](https://github.com/Apurva3509/pidmesh)
+
+A local process-aware coordination layer for concurrent AI agents. Independent
+Codex, Claude Code, Cursor, and custom workers get shared durable memory,
+direct and broadcast messaging, PID/session discovery, wakeable event streams,
+and atomic task leases through one private SQLite database—without a daemon or
+cloud account.
+
+`Python` · `MCP` · `Multi-agent systems` · `SQLite` · `Local-first`
+
 ### [Grounded Alpha](https://github.com/Apurva3509/grounded-alpha)
 
 An evidence-gated evaluation harness for financial research agents. It catches
@@ -49,6 +59,7 @@ workflows.
 ## Current research directions
 
 - Reliable agent harnesses: evaluations, guardrails, observability, and recovery
+- Process-aware local agent coordination, shared memory, and safe work handoffs
 - On-device intelligence with Core ML and privacy-preserving local workflows
 - Explainable portfolio analytics and probabilistic financial risk models
 - Retrieval systems and multimodal embeddings grounded in domain knowledge
