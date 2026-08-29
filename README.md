@@ -15,13 +15,13 @@ turning research ideas into software people can inspect, run, and improve.
 
 ### [PidMesh](https://github.com/Apurva3509/pidmesh)
 
-A local process-aware coordination layer for concurrent AI agents. Independent
-Codex, Claude Code, Cursor, and custom workers get shared durable memory,
-direct and broadcast messaging, PID/session discovery, wakeable event streams,
-and atomic task leases through one private SQLite database—without a daemon or
-cloud account.
+A native Rust coordination runtime for concurrent AI agents. Independent Codex,
+Claude Code, Cursor, and custom workers get shared durable memory, direct and
+broadcast messaging, PID/session discovery, wakeable event streams, and atomic
+task leases through one private SQLite database—without a daemon or cloud
+account. Its durable-write path is 11.7× faster than the original Python runtime.
 
-`Python` · `MCP` · `Multi-agent systems` · `SQLite` · `Local-first`
+`Rust` · `MCP` · `Multi-agent systems` · `SQLite` · `Local-first`
 
 ### [Grounded Alpha](https://github.com/Apurva3509/grounded-alpha)
 
@@ -67,6 +67,7 @@ workflows.
 ## Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
